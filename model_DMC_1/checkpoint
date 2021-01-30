@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\\346\226\220\346\263\242\351\202\243\345\245\221\343\201\256\345\205\224\\Desktop\\DMC-tensorflow-master\\model_DMC_1\\py-DMC-0.001-alexnetv2-10-epochs.model"
+all_model_checkpoint_paths: "C:\\Users\\\346\226\220\346\263\242\351\202\243\345\245\221\343\201\256\345\205\224\\Desktop\\DMC-tensorflow-master\\model_DMC_1\\py-DMC-0.001-alexnetv2-10-epochs.model"
